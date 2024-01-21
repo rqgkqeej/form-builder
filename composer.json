@@ -1,6 +1,6 @@
 {
-  "name": "xaboy/form-builder",
-  "description": "PHP表单生成器，快速生成现代化的form表单。包含复选框、单选框、输入框、下拉选择框等元素以及,省市区三级联动,时间选择,日期选择,颜色选择,文件/图片上传等功能。",
+  "name": "rqgkqeej/form-builder",
+  "description": "fork自xaboy/form-builder..PHP表单生成器，快速生成现代化的form表单。包含复选框、单选框、输入框、下拉选择框等元素以及,省市区三级联动,时间选择,日期选择,颜色选择,文件/图片上传等功能。",
   "license": "MIT",
   "keywords": [
     "form",
@@ -10,7 +10,7 @@
     "element-ui",
     "iview"
   ],
-  "homepage": "https://github.com/xaboy/form-builder",
+  "homepage": "https://github.com/rqgkqeej/form-builder",
   "authors": [
     {
       "name": "xaboy",
@@ -23,8 +23,8 @@
     }
   },
   "support": {
-    "issues": "https://github.com/xaboy/form-builder/issues",
-    "source": "https://github.com/xaboy/form-builder"
+    "issues": "https://github.com/rqgkqeej/form-builder/issues",
+    "source": "https://github.com/rqgkqeej/form-builder"
   },
   "require": {
     "php": ">=5.4.0",
