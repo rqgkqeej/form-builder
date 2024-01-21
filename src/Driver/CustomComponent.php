@@ -26,7 +26,7 @@ use FormBuilder\Rule\ValidateRule;
  * 自定义组件
  * Class CustomComponent
  */
-class CustomComponent implements CustomComponentInterface, \JsonSerializable, \ArrayAccess
+class CustomComponent implements CustomComponentInterface, \ArrayAccess
 {
     use BaseRule;
     use ChildrenRule;
